@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Amplify example`,
+    title: `Gatsby Amplify development`,
     description: `Hello there!`,
     author: `@gatsbyjs`,
   },
